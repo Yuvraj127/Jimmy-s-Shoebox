@@ -1,0 +1,15 @@
+# ignore directories
+uploads
+upgrades
+
+#OS generated files
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ignore log files and databases
+*.log
+*.sql
