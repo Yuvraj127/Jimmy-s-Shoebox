@@ -74,6 +74,21 @@
 			"name": "footer",
 			"title": "Footer",
 			"area": "footer"
+		},
+		{
+			"name": "home",
+			"title": "home",
+			"area": "home"
+		},
+		{
+			"name": "about",
+			"title": "about",
+			"area": "about"
+		},
+		{
+			"name": "contact",
+			"title": "contact",
+			"area": "contact"
 		}
 	]
 }
